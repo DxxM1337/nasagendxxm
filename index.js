@@ -235,4 +235,4 @@ if(command === "help") {
 }	
 })	
 
-bot.login("NzEwMDUxNTg4OTc4MjQ1NjQz.Xru1Eg.F6oUxqHE5SDoF3FZwpXJLkb4SCA");	
+bot.login("NzEwMDUxNTg4OTc4MjQ1NjQz.Xru1Eg.IRyekfp8TFYT5heArEmTroFRHTo");	
